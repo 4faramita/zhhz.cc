@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "反射頻率",
+    "description": "",
+    "home_page_url": "https://zhhz.cc",
+    "feed_url": "https://zhhz.cc/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "🎁"
+    },
+    "items": [
+        {
+            "id": "https://zhhz.cc/2025-11-05/",
+            "url": "https://zhhz.cc/2025-11-05/",
+            "title": "309",
+            "summary": "90mm f/8.0 1/250s ISO 100 2025/11/3, 4:24 AM",
+            "content_html": "<p>90mm f/8.0 1/250s ISO 100</p><p>2025/11/3, 4:24 AM</p>",
+            "image": "https://zhhz.cc/media/posts/1/DSC06779.jpg",
+            "author": {
+                "name": "🎁"
+            },
+            "tags": [
+                   "SONY ILCE-7M2",
+                   "90mm F2.8 DG DN | Contemporary 021",
+                   "2025-11",
+                   "2025"
+            ],
+            "date_published": "2025-11-05T23:28:01+09:00",
+            "date_modified": "2025-11-05T23:42:38+09:00"
+        }
+    ]
+}

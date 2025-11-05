@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>反射頻率</title>
+    <link href="https://zhhz.cc/feed.xml" rel="self" />
+    <link href="https://zhhz.cc" />
+    <updated>2025-11-05T23:42:38+09:00</updated>
+    <author>
+        <name>🎁</name>
+    </author>
+    <id>https://zhhz.cc</id>
+
+    <entry>
+        <title>309</title>
+        <author>
+            <name>🎁</name>
+        </author>
+        <link href="https://zhhz.cc/2025-11-05/"/>
+        <id>https://zhhz.cc/2025-11-05/</id>
+        <media:content url="https://zhhz.cc/media/posts/1/DSC06779.jpg" medium="image" />
+            <category term="SONY ILCE-7M2"/>
+            <category term="90mm F2.8 DG DN | Contemporary 021"/>
+            <category term="2025-11"/>
+            <category term="2025"/>
+
+        <updated>2025-11-05T23:28:01+09:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://zhhz.cc/media/posts/1/DSC06779.jpg" alt="A highway overpass with a clear blue sky in the background. A green road sign attached to the overpass displays an airplane symbol with the text &quot;Narita&quot; and &quot;E51&quot;. Two tall lampposts extend from the overpass, casting minimal shadow. The image captures a section of the overpass structure in shadow on the right." />
+                    90mm f/8.0 1/250s ISO 100 2025/11/3, 4:24 AM
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhhz.cc/media/posts/1/DSC06779.jpg" class="type:primaryImage" alt="A highway overpass with a clear blue sky in the background. A green road sign attached to the overpass displays an airplane symbol with the text &quot;Narita&quot; and &quot;E51&quot;. Two tall lampposts extend from the overpass, casting minimal shadow. The image captures a section of the overpass structure in shadow on the right." /></p>
+                <p>90mm f/8.0 1/250s ISO 100</p><p>2025/11/3, 4:24 AM</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
