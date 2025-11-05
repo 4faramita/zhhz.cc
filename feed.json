@@ -14,7 +14,7 @@
             "url": "https://zhhz.cc/2025-11-05/",
             "title": "309",
             "summary": "90mm f/8.0 1/250s ISO 100 2025/11/3, 4:24 AM",
-            "content_html": "<p>90mm f/8.0 1/250s ISO 100</p><p>2025/11/3, 4:24 AM</p>",
+            "content_html": "<ul>\n<li>90mm</li>\n<li>f/8.0</li>\n<li>1/250s</li>\n<li>ISO 100</li>\n<li>2025/11/3, 4:24 AM</li>\n</ul>\n",
             "image": "https://zhhz.cc/media/posts/1/DSC06779.jpg",
             "author": {
                 "name": "🎁"
@@ -26,7 +26,7 @@
                    "2025"
             ],
             "date_published": "2025-11-05T23:28:01+09:00",
-            "date_modified": "2025-11-05T23:42:38+09:00"
+            "date_modified": "2025-11-06T00:44:00+09:00"
         }
     ]
 }
