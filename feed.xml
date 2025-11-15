@@ -3,12 +3,47 @@
     <title>反射頻率</title>
     <link href="https://zhhz.cc/feed.xml" rel="self" />
     <link href="https://zhhz.cc" />
-    <updated>2025-11-15T01:05:33+09:00</updated>
+    <updated>2025-11-16T00:30:29+09:00</updated>
     <author>
         <name>🎁</name>
     </author>
     <id>https://zhhz.cc</id>
 
+    <entry>
+        <title>319</title>
+        <author>
+            <name>🎁</name>
+        </author>
+        <link href="https://zhhz.cc/20251115/"/>
+        <id>https://zhhz.cc/20251115/</id>
+        <media:content url="https://zhhz.cc/media/posts/15/DSC06666.jpg" medium="image" />
+            <category term="SONY ILCE-7M2"/>
+            <category term="90mm F2.8 DG DN | Contemporary 021"/>
+            <category term="65x24"/>
+            <category term="2025-11"/>
+            <category term="2025"/>
+
+        <updated>2025-11-16T00:29:19+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhhz.cc/media/posts/15/DSC06666.jpg" alt="Elevated train traveling on a bridge above a river. Below the train, there is a roadway with two visible cars, separated from the train bridge by another structure. The sun creates a lens flare, casting a warm glow on the scene." />
+                    90 mmf/8.01/250sISO 1002025/11/03 16:52
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhhz.cc/media/posts/15/DSC06666.jpg" class="type:primaryImage" alt="Elevated train traveling on a bridge above a river. Below the train, there is a roadway with two visible cars, separated from the train bridge by another structure. The sun creates a lens flare, casting a warm glow on the scene." /></p>
+                
+  <ul class="exif">
+    <li>90 mm</li><li>f/8.0</li><li>1/250s</li><li>ISO 100</li><li>2025/11/03 16:52</li>
+  </ul>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>318</title>
         <author>
@@ -315,36 +350,6 @@
                 
   <ul class="exif">
     <li>90mm</li><li>f/8.0</li><li>1/250s</li><li>ISO 160</li><li>2025/11/3, 4:13 AM</li>
-  </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>309</title>
-        <author>
-            <name>🎁</name>
-        </author>
-        <link href="https://zhhz.cc/20251105/"/>
-        <id>https://zhhz.cc/20251105/</id>
-        <media:content url="https://zhhz.cc/media/posts/5/DSC06779.jpg" medium="image" />
-            <category term="SONY ILCE-7M2"/>
-            <category term="90mm F2.8 DG DN | Contemporary 021"/>
-            <category term="2025-11"/>
-            <category term="2025"/>
-
-        <updated>2025-11-06T12:38:11+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://zhhz.cc/media/posts/5/DSC06779.jpg" alt="A highway overpass with a clear blue sky in the background. A green road sign attached to the overpass displays an airplane symbol with the text &quot;Narita&quot; and &quot;E51&quot;. Two tall lampposts extend from the overpass, casting minimal shadow. The image captures a section of the overpass structure in shadow on the right." />
-                    90mmf/8.01/250sISO 1002025/11/3, 4:24 AM
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://zhhz.cc/media/posts/5/DSC06779.jpg" class="type:primaryImage" alt="A highway overpass with a clear blue sky in the background. A green road sign attached to the overpass displays an airplane symbol with the text &quot;Narita&quot; and &quot;E51&quot;. Two tall lampposts extend from the overpass, casting minimal shadow. The image captures a section of the overpass structure in shadow on the right." /></p>
-                
-  <ul class="exif">
-    <li>90mm</li><li>f/8.0</li><li>1/250s</li><li>ISO 100</li><li>2025/11/3, 4:24 AM</li>
   </ul>
             ]]>
         </content>
