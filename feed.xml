@@ -3,12 +3,46 @@
     <title>反射頻率</title>
     <link href="https://zhhz.cc/feed.xml" rel="self" />
     <link href="https://zhhz.cc" />
-    <updated>2025-11-20T00:10:17+09:00</updated>
+    <updated>2025-11-20T23:08:32+09:00</updated>
     <author>
         <name>🎁</name>
     </author>
     <id>https://zhhz.cc</id>
 
+    <entry>
+        <title>324</title>
+        <author>
+            <name>🎁</name>
+        </author>
+        <link href="https://zhhz.cc/20251120/"/>
+        <id>https://zhhz.cc/20251120/</id>
+        <media:content url="https://zhhz.cc/media/posts/32/DSC04998.jpg" medium="image" />
+            <category term="SONY ILCE-7M2"/>
+            <category term="90mm F2.8 DG DN | Contemporary 021"/>
+            <category term="2025-11"/>
+            <category term="2025"/>
+
+        <updated>2025-11-20T23:07:42+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhhz.cc/media/posts/32/DSC04998.jpg" alt="Two people stand on a sandy beach, each holding inflatable pink swim rings. A body of water stretches out in front of them, with a large bridge and skyline visible in the background at dusk. The scene is calm, with soft lighting suggesting early evening." />
+                    90 mmf/2.81/100sISO 1252024/03/09
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhhz.cc/media/posts/32/DSC04998.jpg" class="type:primaryImage" alt="Two people stand on a sandy beach, each holding inflatable pink swim rings. A body of water stretches out in front of them, with a large bridge and skyline visible in the background at dusk. The scene is calm, with soft lighting suggesting early evening." /></p>
+                
+  <ul class="exif">
+    <li>90 mm</li><li>f/2.8</li><li>1/100s</li><li>ISO 125</li><li>2024/03/09</li>
+  </ul>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>323</title>
         <author>
@@ -308,40 +342,6 @@
                 
   <ul class="exif">
     <li>6.0 mm</li><li>f/1.6</li><li>1/19s</li><li>ISO 1000</li><li>2025/11/08 18:48:07</li>
-  </ul>
-
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>314</title>
-        <author>
-            <name>🎁</name>
-        </author>
-        <link href="https://zhhz.cc/20251110/"/>
-        <id>https://zhhz.cc/20251110/</id>
-        <media:content url="https://zhhz.cc/media/posts/10/DSC06628.jpg" medium="image" />
-            <category term="SONY ILCE-7M2"/>
-            <category term="90mm F2.8 DG DN | Contemporary 021"/>
-            <category term="2025-11"/>
-            <category term="2025"/>
-
-        <updated>2025-11-11T00:28:27+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://zhhz.cc/media/posts/10/DSC06628.jpg" alt="Steel framework with a grid-like pattern dominates the foreground, casting shadows and lines across the image. A blurred background reveals modern building structures with sunlight illuminating parts of the metal and concrete surfaces. The contrast between light and shadow adds depth to the scene." />
-                    90mmf/8.01/160sISO 1002025/11/3, 15:42
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://zhhz.cc/media/posts/10/DSC06628.jpg" class="type:primaryImage" alt="Steel framework with a grid-like pattern dominates the foreground, casting shadows and lines across the image. A blurred background reveals modern building structures with sunlight illuminating parts of the metal and concrete surfaces. The contrast between light and shadow adds depth to the scene." /></p>
-                
-  <ul class="exif">
-    <li>90mm</li><li>f/8.0</li><li>1/160s</li><li>ISO 100</li><li>2025/11/3, 15:42</li>
   </ul>
 
   <p>
