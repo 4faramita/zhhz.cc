@@ -3,12 +3,46 @@
     <title>⏿ Observable</title>
     <link href="https://zhhz.cc/feed.xml" rel="self" />
     <link href="https://zhhz.cc" />
-    <updated>2025-11-26T22:54:50+09:00</updated>
+    <updated>2025-11-27T23:34:53+09:00</updated>
     <author>
         <name>🎁</name>
     </author>
     <id>https://zhhz.cc</id>
 
+    <entry>
+        <title>331</title>
+        <author>
+            <name>🎁</name>
+        </author>
+        <link href="https://zhhz.cc/20251127/"/>
+        <id>https://zhhz.cc/20251127/</id>
+        <media:content url="https://zhhz.cc/media/posts/39/DSC06929.jpg" medium="image" />
+            <category term="SONY ILCE-7M2"/>
+            <category term="90mm F2.8 DG DN | Contemporary 021"/>
+            <category term="2025-11"/>
+            <category term="2025"/>
+
+        <updated>2025-11-27T23:33:57+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhhz.cc/media/posts/39/DSC06929.jpg" alt="Golden reeds lit by sunlight, surrounded by lush green tree foliage. Darker background contrasts with the illuminated plants, creating a tranquil natural scene." />
+                    90 mmf/8.01/250sISO 1602025/11/24 15:35
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhhz.cc/media/posts/39/DSC06929.jpg" class="type:primaryImage" alt="Golden reeds lit by sunlight, surrounded by lush green tree foliage. Darker background contrasts with the illuminated plants, creating a tranquil natural scene." /></p>
+                
+  <ul class="exif">
+    <li>90 mm</li><li>f/8.0</li><li>1/250s</li><li>ISO 160</li><li>2025/11/24 15:35</li>
+  </ul>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>330</title>
         <author>
@@ -305,40 +339,6 @@
                 
   <ul class="exif">
     <li>90 mm</li><li>f/2.8</li><li>1/800s</li><li>ISO 100</li><li>2024/02/15</li>
-  </ul>
-
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>321</title>
-        <author>
-            <name>🎁</name>
-        </author>
-        <link href="https://zhhz.cc/20251117/"/>
-        <id>https://zhhz.cc/20251117/</id>
-        <media:content url="https://zhhz.cc/media/posts/29/DSC1305.jpeg" medium="image" />
-            <category term="SONY ILCE-7M2"/>
-            <category term="90mm F2.8 DG DN | Contemporary 021"/>
-            <category term="2025-11"/>
-            <category term="2025"/>
-
-        <updated>2025-11-18T00:01:02+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://zhhz.cc/media/posts/29/DSC1305.jpeg" alt="Rippling water surface reflecting a blue sky and white clouds, creating a textured, abstract pattern with gentle gradients from blue to white." />
-                    90 mmf/8.01/320sISO 1002024/06/01
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://zhhz.cc/media/posts/29/DSC1305.jpeg" class="type:primaryImage" alt="Rippling water surface reflecting a blue sky and white clouds, creating a textured, abstract pattern with gentle gradients from blue to white." /></p>
-                
-  <ul class="exif">
-    <li>90 mm</li><li>f/8.0</li><li>1/320s</li><li>ISO 100</li><li>2024/06/01</li>
   </ul>
 
   <p>
