@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "反射頻率",
+    "title": "⏿ Observable",
     "description": "",
     "home_page_url": "https://zhhz.cc",
     "feed_url": "https://zhhz.cc/feed.json",
     "user_comment": "",
+    "icon": "https://zhhz.cc/media/website/eye.png",
     "author": {
         "name": "🎁"
     },
