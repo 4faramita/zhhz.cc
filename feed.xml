@@ -3,12 +3,46 @@
     <title>⏿ Observable</title>
     <link href="https://zhhz.cc/feed.xml" rel="self" />
     <link href="https://zhhz.cc" />
-    <updated>2025-11-27T23:34:53+09:00</updated>
+    <updated>2025-11-29T00:43:05+09:00</updated>
     <author>
         <name>🎁</name>
     </author>
     <id>https://zhhz.cc</id>
 
+    <entry>
+        <title>332</title>
+        <author>
+            <name>🎁</name>
+        </author>
+        <link href="https://zhhz.cc/20251128/"/>
+        <id>https://zhhz.cc/20251128/</id>
+        <media:content url="https://zhhz.cc/media/posts/40/DSC06935.jpg" medium="image" />
+            <category term="SONY ILCE-7M2"/>
+            <category term="90mm F2.8 DG DN | Contemporary 021"/>
+            <category term="2025-11"/>
+            <category term="2025"/>
+
+        <updated>2025-11-29T00:42:16+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhhz.cc/media/posts/40/DSC06935.jpg" alt="Sunset view over a landscape with dense green trees in the foreground, featuring vibrant yellow trees and a cityscape in the middle ground. The background is dominated by gently rolling mountains, softly lit by the setting sun, creating a warm and serene atmosphere." />
+                    90 mmf/8.01/250sISO 16002025/11/24 16:18
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhhz.cc/media/posts/40/DSC06935.jpg" class="type:primaryImage" alt="Sunset view over a landscape with dense green trees in the foreground, featuring vibrant yellow trees and a cityscape in the middle ground. The background is dominated by gently rolling mountains, softly lit by the setting sun, creating a warm and serene atmosphere." /></p>
+                
+  <ul class="exif">
+    <li>90 mm</li><li>f/8.0</li><li>1/250s</li><li>ISO 1600</li><li>2025/11/24 16:18</li>
+  </ul>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>331</title>
         <author>
@@ -305,40 +339,6 @@
                 
   <ul class="exif">
     <li>90 mm</li><li>f/2.8</li><li>1/250s</li><li>ISO 100</li><li>2024/04/05</li>
-  </ul>
-
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>322</title>
-        <author>
-            <name>🎁</name>
-        </author>
-        <link href="https://zhhz.cc/20251118/"/>
-        <id>https://zhhz.cc/20251118/</id>
-        <media:content url="https://zhhz.cc/media/posts/30/DSC04759.jpg" medium="image" />
-            <category term="SONY ILCE-7M2"/>
-            <category term="90mm F2.8 DG DN | Contemporary 021"/>
-            <category term="2025-11"/>
-            <category term="2025"/>
-
-        <updated>2025-11-19T00:58:42+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://zhhz.cc/media/posts/30/DSC04759.jpg" alt="Silhouette of a person sitting on the beach facing the ocean at sunset. The sky features vibrant orange and yellow hues with scattered dark clouds. The ocean reflects the colors of the sunset, and the horizon is indistinct against the illuminated sky." />
-                    90 mmf/2.81/800sISO 1002024/02/15
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://zhhz.cc/media/posts/30/DSC04759.jpg" class="type:primaryImage" alt="Silhouette of a person sitting on the beach facing the ocean at sunset. The sky features vibrant orange and yellow hues with scattered dark clouds. The ocean reflects the colors of the sunset, and the horizon is indistinct against the illuminated sky." /></p>
-                
-  <ul class="exif">
-    <li>90 mm</li><li>f/2.8</li><li>1/800s</li><li>ISO 100</li><li>2024/02/15</li>
   </ul>
 
   <p>
