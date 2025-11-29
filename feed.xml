@@ -3,12 +3,46 @@
     <title>⏿ Observable</title>
     <link href="https://zhhz.cc/feed.xml" rel="self" />
     <link href="https://zhhz.cc" />
-    <updated>2025-11-29T00:43:05+09:00</updated>
+    <updated>2025-11-29T23:55:51+09:00</updated>
     <author>
         <name>🎁</name>
     </author>
     <id>https://zhhz.cc</id>
 
+    <entry>
+        <title>333</title>
+        <author>
+            <name>🎁</name>
+        </author>
+        <link href="https://zhhz.cc/20251129/"/>
+        <id>https://zhhz.cc/20251129/</id>
+        <media:content url="https://zhhz.cc/media/posts/41/DSC06849.jpg" medium="image" />
+            <category term="SONY ILCE-7M2"/>
+            <category term="90mm F2.8 DG DN | Contemporary 021"/>
+            <category term="2025-11"/>
+            <category term="2025"/>
+
+        <updated>2025-11-29T23:54:47+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhhz.cc/media/posts/41/DSC06849.jpg" alt="A barbershop interior seen through a partially open door, with a person in a striped shirt attending to a seated customer covered by a white salon cape. &quot;Salon de Ban&quot; is written on the wall, along with stylized Japanese text and a logo featuring a semicircle. Dim, warm lighting gives a cozy ambiance." />
+                    90 mmf/4.01/125sISO 4002025/11/22 18:07
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhhz.cc/media/posts/41/DSC06849.jpg" class="type:primaryImage" alt="A barbershop interior seen through a partially open door, with a person in a striped shirt attending to a seated customer covered by a white salon cape. &quot;Salon de Ban&quot; is written on the wall, along with stylized Japanese text and a logo featuring a semicircle. Dim, warm lighting gives a cozy ambiance." /></p>
+                
+  <ul class="exif">
+    <li>90 mm</li><li>f/4.0</li><li>1/125s</li><li>ISO 400</li><li>2025/11/22 18:07</li>
+  </ul>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>332</title>
         <author>
@@ -305,40 +339,6 @@
                 
   <ul class="exif">
     <li>90 mm</li><li>f/2.8</li><li>1/100s</li><li>ISO 125</li><li>2024/03/09</li>
-  </ul>
-
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>323</title>
-        <author>
-            <name>🎁</name>
-        </author>
-        <link href="https://zhhz.cc/20251119/"/>
-        <id>https://zhhz.cc/20251119/</id>
-        <media:content url="https://zhhz.cc/media/posts/31/DSC05302.jpg" medium="image" />
-            <category term="SONY ILCE-7M2"/>
-            <category term="90mm F2.8 DG DN | Contemporary 021"/>
-            <category term="2025-11"/>
-            <category term="2025"/>
-
-        <updated>2025-11-20T00:09:33+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://zhhz.cc/media/posts/31/DSC05302.jpg" alt="Three tall palm trees rise against a blue sky. A modern, white rectangular building occupies the lower right corner." />
-                    90 mmf/2.81/250sISO 1002024/04/05
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://zhhz.cc/media/posts/31/DSC05302.jpg" class="type:primaryImage" alt="Three tall palm trees rise against a blue sky. A modern, white rectangular building occupies the lower right corner." /></p>
-                
-  <ul class="exif">
-    <li>90 mm</li><li>f/2.8</li><li>1/250s</li><li>ISO 100</li><li>2024/04/05</li>
   </ul>
 
   <p>
