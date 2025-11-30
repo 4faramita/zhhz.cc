@@ -3,12 +3,46 @@
     <title>⏿ Observable</title>
     <link href="https://zhhz.cc/feed.xml" rel="self" />
     <link href="https://zhhz.cc" />
-    <updated>2025-11-29T23:55:51+09:00</updated>
+    <updated>2025-12-01T00:22:11+09:00</updated>
     <author>
         <name>🎁</name>
     </author>
     <id>https://zhhz.cc</id>
 
+    <entry>
+        <title>334</title>
+        <author>
+            <name>🎁</name>
+        </author>
+        <link href="https://zhhz.cc/20251130/"/>
+        <id>https://zhhz.cc/20251130/</id>
+        <media:content url="https://zhhz.cc/media/posts/42/DSC06782.jpg" medium="image" />
+            <category term="SONY ILCE-7M2"/>
+            <category term="90mm F2.8 DG DN | Contemporary 021"/>
+            <category term="2025-11"/>
+            <category term="2025"/>
+
+        <updated>2025-12-01T00:20:51+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhhz.cc/media/posts/42/DSC06782.jpg" alt="City skyline at sunset with high-rise buildings and a red tower. A large body of water in the foreground contains white boats. Several birds fly above the cityscape, and the lighting casts a warm glow on the buildings." />
+                    90 mmf/8.01/250sISO 2002025/11/03 16:27
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhhz.cc/media/posts/42/DSC06782.jpg" class="type:primaryImage" alt="City skyline at sunset with high-rise buildings and a red tower. A large body of water in the foreground contains white boats. Several birds fly above the cityscape, and the lighting casts a warm glow on the buildings." /></p>
+                
+  <ul class="exif">
+    <li>90 mm</li><li>f/8.0</li><li>1/250s</li><li>ISO 200</li><li>2025/11/03 16:27</li>
+  </ul>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>333</title>
         <author>
@@ -305,40 +339,6 @@
                 
   <ul class="exif">
     <li>40 mm</li><li>f/8.0</li><li>1/125s</li><li>ISO 200</li><li>2025/11/16&nbsp;15:35:09</li>
-  </ul>
-
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>324</title>
-        <author>
-            <name>🎁</name>
-        </author>
-        <link href="https://zhhz.cc/20251120/"/>
-        <id>https://zhhz.cc/20251120/</id>
-        <media:content url="https://zhhz.cc/media/posts/32/DSC04998.jpg" medium="image" />
-            <category term="SONY ILCE-7M2"/>
-            <category term="90mm F2.8 DG DN | Contemporary 021"/>
-            <category term="2025-11"/>
-            <category term="2025"/>
-
-        <updated>2025-11-20T23:07:42+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://zhhz.cc/media/posts/32/DSC04998.jpg" alt="Two people stand on a sandy beach, each holding inflatable pink swim rings. A body of water stretches out in front of them, with a large bridge and skyline visible in the background at dusk. The scene is calm, with soft lighting suggesting early evening." />
-                    90 mmf/2.81/100sISO 1252024/03/09
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://zhhz.cc/media/posts/32/DSC04998.jpg" class="type:primaryImage" alt="Two people stand on a sandy beach, each holding inflatable pink swim rings. A body of water stretches out in front of them, with a large bridge and skyline visible in the background at dusk. The scene is calm, with soft lighting suggesting early evening." /></p>
-                
-  <ul class="exif">
-    <li>90 mm</li><li>f/2.8</li><li>1/100s</li><li>ISO 125</li><li>2024/03/09</li>
   </ul>
 
   <p>
