@@ -3,12 +3,46 @@
     <title>⏿ Observable</title>
     <link href="https://zhhz.cc/feed.xml" rel="self" />
     <link href="https://zhhz.cc" />
-    <updated>2025-12-05T00:18:11+09:00</updated>
+    <updated>2025-12-06T00:22:00+09:00</updated>
     <author>
         <name>🎁</name>
     </author>
     <id>https://zhhz.cc</id>
 
+    <entry>
+        <title>339</title>
+        <author>
+            <name>🎁</name>
+        </author>
+        <link href="https://zhhz.cc/20251205/"/>
+        <id>https://zhhz.cc/20251205/</id>
+        <media:content url="https://zhhz.cc/media/posts/47/DSC05033.jpg" medium="image" />
+            <category term="SONY ILCE-7M2"/>
+            <category term="90mm F2.8 DG DN | Contemporary 021"/>
+            <category term="2025-12"/>
+            <category term="2025"/>
+
+        <updated>2025-12-06T00:20:46+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhhz.cc/media/posts/47/DSC05033.jpg" alt="Concrete stairs with metal railings, illuminated by a street lamp, ascend diagonally in the foreground. In the background, a row of rectangular windows, each framed by plants, reveals interiors lit from within. The scene is in black and white, creating strong contrasts between light and shadow." />
+                    90 mmf/2.81/100sISO 40002025/03/09 18:51
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhhz.cc/media/posts/47/DSC05033.jpg" class="type:primaryImage" alt="Concrete stairs with metal railings, illuminated by a street lamp, ascend diagonally in the foreground. In the background, a row of rectangular windows, each framed by plants, reveals interiors lit from within. The scene is in black and white, creating strong contrasts between light and shadow." /></p>
+                
+  <ul class="exif">
+    <li>90 mm</li><li>f/2.8</li><li>1/100s</li><li>ISO 4000</li><li>2025/03/09 18:51</li>
+  </ul>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>338</title>
         <author>
@@ -305,40 +339,6 @@
                 
   <ul class="exif">
     <li>90 mm</li><li>f/8.0</li><li>1/250s</li><li>ISO 100</li><li>2025/11/24 12:28</li>
-  </ul>
-
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>329</title>
-        <author>
-            <name>🎁</name>
-        </author>
-        <link href="https://zhhz.cc/20251125/"/>
-        <id>https://zhhz.cc/20251125/</id>
-        <media:content url="https://zhhz.cc/media/posts/37/DSC06879.jpg" medium="image" />
-            <category term="SONY ILCE-7M2"/>
-            <category term="90mm F2.8 DG DN | Contemporary 021"/>
-            <category term="2025-11"/>
-            <category term="2025"/>
-
-        <updated>2025-11-26T00:12:48+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://zhhz.cc/media/posts/37/DSC06879.jpg" alt="Person walking on a shadowed street next to a brightly-lit building with a yellow exterior. The building features a large window displaying colorful posters with Japanese text. A tiled walkway with a yellow tactile guidance path is visible." />
-                    90 mmf/8.01/250sISO 1602025/11/24 12:35
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://zhhz.cc/media/posts/37/DSC06879.jpg" class="type:primaryImage" alt="Person walking on a shadowed street next to a brightly-lit building with a yellow exterior. The building features a large window displaying colorful posters with Japanese text. A tiled walkway with a yellow tactile guidance path is visible." /></p>
-                
-  <ul class="exif">
-    <li>90 mm</li><li>f/8.0</li><li>1/250s</li><li>ISO 160</li><li>2025/11/24 12:35</li>
   </ul>
 
   <p>
